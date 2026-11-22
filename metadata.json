@@ -1,0 +1,8 @@
+{
+  "name": "Lucent – Semantic Search & AI Ranking Engine",
+  "description": "Find what matters. Understand why. A full-stack semantic search, hybrid ranking, and evidence-grounded RAG research platform.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
